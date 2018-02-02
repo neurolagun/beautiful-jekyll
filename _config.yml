@@ -23,7 +23,13 @@ description: Asociación amigos de la Neurociencia - Neurozientziaren lagunak el
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Nor gara - Quienes somos: "norgara"
+  Programa:
+    - NeuroKafe: "https://neurokafe.github.io/"
+    - NeuroLagun Popular - Herriz Herri: "neuropopular"
+  Elkartea:
+    - Bazkidetzak - Asociarse: "bazkide"
+    - Dirulaguntzak - Donaciones: "dirulagun"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -92,10 +98,10 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -136,7 +142,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Madrid"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
