@@ -11,11 +11,11 @@ Neurolagunek ezagutza hedatzea du helburu eta neurozientzian lan egiten duten ta
 
 Neurolagun tiene como objetivo difundir el conocimiento y fomentar la colaboración entre diferentes grupos que trabajan en neurociencia, cubriendo diferentes aspectos, desde los circuitos moleculares y las imágenes hasta la enfermedad clínica o la neurorrehabilitación.
 
-# Nork edo nortzuk kudeatzen du/dute?
+# Nork kudeatzen du?
 
 Neurolagun Euskal Herriko Ikerketa Erakunde desberdinetako ikertzaileek kudeatzen dute, haien artean Euskal Herriko Unibertsitatea, Achucarro Basque Center for Neuroscience eta Biocruces Osasun Ikerketa Zentroa.
 
-# ¿Quién/ lo gestionan?
+# ¿Quién lo gestiona?
 
 Neurolagun es gestionado por investigadores pertenecientes a diferentes instituciones de investigación del País Vasco, entre otras la Universidad del País Vasco, Achucarro Basque Center for Neuroscience y el Centro de Investigación Biomédica Biocruces.
 
@@ -36,4 +36,5 @@ Una de las maneras más fáciles de ayudarnos es mediante la donación. Tu donac
 
 - Organizar jornadas de neurociencia para la difusión del conocimiento a la población en general con el objetivo de dar respuesta a las inquietudes de las personas.
 
+{: .box-note}
 Proximamente abriremos la página de donaciones.
