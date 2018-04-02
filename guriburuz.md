@@ -37,4 +37,4 @@ Una de las maneras más fáciles de ayudarnos es mediante la [donación](http://
 - Organizar jornadas de neurociencia para la difusión del conocimiento a la población en general con el objetivo de dar respuesta a las inquietudes de las personas.
 
 {: .box-note}
-[DONACIONES](http://neurolagun.eus/dirulagun/).
+[DONACIONES](http://neurolagun.eus/dirulagun/)
