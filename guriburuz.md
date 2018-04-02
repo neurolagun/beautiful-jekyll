@@ -30,11 +30,11 @@ Para cumplir sus objetivos, Neurolagun organiza jornadas de difusión de la neur
 # ¿Dónde puedo obtener más información?
 # ¿Cómo puedo colaborar?
 
-Una de las maneras más fáciles de ayudarnos es mediante la donación. Tu donación se usará para:
+Una de las maneras más fáciles de ayudarnos es mediante la [donación](http://neurolagun.eus/dirulagun/). Tu donación se usará para:
 
 - Invitar a científicos y clínicos de reconocida trayectoria científica y/o clínica para que compartan su conocimiento, se fomenten ideas de investigación y se establezcan nuevas redes de colaboración entre los científicos del País Vasco y otros países.
 
 - Organizar jornadas de neurociencia para la difusión del conocimiento a la población en general con el objetivo de dar respuesta a las inquietudes de las personas.
 
 {: .box-note}
-Proximamente abriremos la página de donaciones.
+[DONACIONES](http://neurolagun.eus/dirulagun/).
