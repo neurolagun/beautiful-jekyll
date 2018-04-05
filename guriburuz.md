@@ -10,7 +10,7 @@ title: Guri buruz - Sobre nosotros
       <div class="row">
 
         <div class="col-md-4">
-          <img class="rounded-circle img-fluid d-block mx-auto" src="/img/asier.jpg" alt="">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="/img/asier.png" alt="">
           <h3>John Smith
             <small>Job Title</small>
           </h3>
