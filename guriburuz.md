@@ -9,21 +9,21 @@ title: Guri buruz - Sobre nosotros
       <!-- Team Members Row -->
       <div class="row">
 
-        <div class="col-sm-6">
+        <div class="col-md-4">
           <img class="rounded-circle img-fluid d-block mx-auto" src="http://placehold.it/200x200" alt="">
           <h3>John Smith
             <small>Job Title</small>
           </h3>
           <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
-        <div class="col-sm-6">
+        <div class="col-md-4">
           <img class="rounded-circle img-fluid d-block mx-auto" src="http://placehold.it/200x200" alt="">
           <h3>John Smith
             <small>Job Title</small>
           </h3>
           <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
         </div>
-        <div class="col-sm-6">
+        <div class="col-md-4">
           <img class="rounded-circle img-fluid d-block mx-auto" src="http://placehold.it/200x200" alt="">
           <h3>John Smith
             <small>Job Title</small>
