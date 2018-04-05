@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Guri buruz - Sobre nosotros
+title: Guri buruz
+Sobre nosotros
 ---
 
 # Zer da Neurolagun?
