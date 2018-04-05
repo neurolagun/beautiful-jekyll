@@ -16,7 +16,7 @@ title: Guri buruz - Sobre nosotros
         </div>
 
         <div class="col-md-4">
-          <img class="rounded-circle img-fluid d-block mx-auto" src="./img/maz.png" alt="">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="/img/maz.png" alt="">
           <h3>Mazahir T. Hasan
             <small>Ikerbasque Professor</small>
           </h3>
@@ -26,7 +26,7 @@ title: Guri buruz - Sobre nosotros
 
 
         <div class="col-md-4">
-          <img class="rounded-circle img-fluid d-block mx-auto" src="img/lai.jpg" alt="">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="/img/lai.jpg" alt="">
           <h3>Laiene Olabarrieta
             <small>PhD</small>
           </h3>
@@ -36,7 +36,7 @@ title: Guri buruz - Sobre nosotros
 
 
         <div class="col-md-4">
-          <img class="rounded-circle img-fluid d-block mx-auto" src="img/inigo.png" alt="">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="/img/inigo.png" alt="">
           <h3>Iñigo Gabilondo
             <small>PhD. MD.</small>
           </h3>
@@ -47,7 +47,7 @@ title: Guri buruz - Sobre nosotros
 
 
         <div class="col-md-4">
-          <img class="rounded-circle img-fluid d-block mx-auto" src="img/juanma.jpg" alt="">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="/img/juanma.jpg" alt="">
           <h3>Juanma Encinas
             <small>Ikerbasque Professor</small>
           </h3>
@@ -58,7 +58,7 @@ title: Guri buruz - Sobre nosotros
 
 
         <div class="col-md-4">
-          <img class="rounded-circle img-fluid d-block mx-auto" src="img/juancarlos.png" alt="">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="/img/juancarlos.png" alt="">
           <h3>Juan Carlos Arango
             <small>Ikerbasque Professor</small>
           </h3>
@@ -70,7 +70,7 @@ title: Guri buruz - Sobre nosotros
 
 
         <div class="col-md-4">
-          <img class="rounded-circle img-fluid d-block mx-auto" src="img/jesus.png" alt="">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="/img/jesus.png" alt="">
           <h3>Jesús M Cortés
             <small>Ikerbasque Professor</small>
           </h3>
@@ -81,7 +81,7 @@ title: Guri buruz - Sobre nosotros
 
 
         <div class="col-md-4">
-          <img class="rounded-circle img-fluid d-block mx-auto" src="img/serafim.png" alt="">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="/img/serafim.png" alt="">
           <h3>Serafim Rodrigues
             <small>Ikerbasque Professor</small>
           </h3>
@@ -92,7 +92,7 @@ title: Guri buruz - Sobre nosotros
 
 
         <div class="col-md-4">
-          <img class="rounded-circle img-fluid d-block mx-auto" src="img/asier.png" alt="">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="/img/asier.png" alt="">
           <h3>Asier Erramuzpe
             <small>PhD</small>
           </h3>
