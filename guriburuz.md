@@ -108,7 +108,5 @@ title: Neurolagun team
 
         </div>
 
-        
-      </div>
 
     </div>
