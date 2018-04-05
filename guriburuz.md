@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guri buruz - Sobre nosotros
+title: Neurolagun team
 ---
 
 <div class="container">
@@ -24,6 +24,8 @@ title: Guri buruz - Sobre nosotros
           <p>Ikerbasque ikerketa irakaslea da Achucarro Basque Center for Neurosciencen. Interes gaiak: oroimenaren oinarri molekularrak, bere finkatze eta aztoramendua</p>
         </div>
 
+        </div>
+        <div class="row">
 
         <div class="col-md-4">
           <img class="rounded-circle img-fluid d-block mx-auto" src="/img/lai.jpg" alt="">
@@ -44,7 +46,8 @@ title: Guri buruz - Sobre nosotros
           <p>Sendagilea Neurologian aditua eta Medikuntzan Doktoratua Biocruces Osasun Ikerketa Institutoan. Interes gaiak: Neuroirudiak eta ikusmena aztertzeko teknikak gaixotasun neurodegeneratiboetan. </p>
         </div>
 
-
+      </div>
+        <div class="row">
 
         <div class="col-md-4">
           <img class="rounded-circle img-fluid d-block mx-auto" src="/img/juanma.jpg" alt="">
@@ -67,6 +70,8 @@ title: Guri buruz - Sobre nosotros
           <p>Ikerbasque ikerketa irakaslea Biocruces Osasun Ikerketa Institutoan. Interes gaiak: Neuropsikologia, garun kaltea eta errehabilitazioa</p>
         </div>
 
+        </div>
+        <div class="row">
 
 
         <div class="col-md-4">
@@ -89,7 +94,8 @@ title: Guri buruz - Sobre nosotros
           <p>Ikerbasque Ikerketa irakaslea Basque Center for Applied Mathematics-en. Interes gaiak: epilepsia, burmuineko sistema endokanabinoidea, kontrolpen neuronala eta konputazio neuronala. </p>
         </div>
 
-
+        </div>
+        <div class="row">
 
         <div class="col-md-4">
           <img class="rounded-circle img-fluid d-block mx-auto" src="/img/asier.png" alt="">
@@ -100,7 +106,9 @@ title: Guri buruz - Sobre nosotros
           <p>Ingeniari Informatikoa eta Ingeniaritza Biomedikoan Doktorea Biocruces Osasun Ikerketa Institutoan. Interes gaiak: Epilepsia, Erreproduzibilitatea, Zientzia-irekia, Software Librea.</p>
         </div>
 
+        </div>
 
+        
       </div>
 
     </div>
