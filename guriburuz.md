@@ -7,7 +7,7 @@ title: Guri buruz - Sobre nosotros
       <div class="row">
 
         <div class="col-md-4">
-          <img class="rounded-circle img-fluid d-block mx-auto" src="img/paolo.jpg" alt="">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="/img/paolo.jpg" alt="">
           <h3>Paolo Bonifazi
             <small>Ikerbasque Fellow</small>
           </h3>
@@ -16,7 +16,7 @@ title: Guri buruz - Sobre nosotros
         </div>
 
         <div class="col-md-4">
-          <img class="rounded-circle img-fluid d-block mx-auto" src="img/maz.png" alt="">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="./img/maz.png" alt="">
           <h3>Mazahir T. Hasan
             <small>Ikerbasque Professor</small>
           </h3>
