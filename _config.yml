@@ -26,7 +26,8 @@ navbar-links:
   Guri buruz - Sobre nosotros: "guriburuz"
   Programa:
     - NeuroKafe: "https://neurokafe.github.io/"
-    - NeuroLagun Popular - Herriz Herri: "neuropopular"
+    - NeuroPopular: "neuropopular"
+    - NeuroClinical: "neuroclinical"
   Elkartea:
     # - Blog: "blog"
     # - Bazkidetzak - Asociarse: "bazkide"
