@@ -8,7 +8,7 @@ title: NeuroPopular
 <h1>Neuropopular Bermeo 2018-12-18</h1>
 </div>
 <div align="center">
-<img src="https://github.com/neurolagun/neurolagun.github.io/blob/master/img/bermeo.png">
+<img src="/img/bermeo.png" height="315" width="560">
 </div>
  
  
