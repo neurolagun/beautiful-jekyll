@@ -3,6 +3,15 @@ layout: page
 title: NeuroPopular
 ---
  
+ 
+<div align="center">
+<h1>Neuropopular Bermeo 2018-12-18</h1>
+</div>
+<div align="center">
+<img src="url">
+</div>
+ 
+ 
 <div align="center">
 <h1>Neuropopular Bermeo 2018-06-14</h1>
 </div>
