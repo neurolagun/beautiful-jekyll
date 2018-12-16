@@ -7,4 +7,4 @@ title: NeuroClinical
 
 ### [Informazio gehio - Mas información](https://isas2018.tk/index_en.html)
 
-![](https://isas2018.tk/img/grupo.jpeg)
+![](https://github.com/neurokafe/isas2018/blob/master/img/logo.png)
