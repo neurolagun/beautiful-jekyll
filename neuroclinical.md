@@ -8,4 +8,4 @@ title: NeuroClinical
 ### [Informazio gehio - Mas información](https://isas2018.tk/index_en.html)
 
 
-<center> ![](https://github.com/neurokafe/isas2018/blob/master/img/logo.png?raw=true) </center>
+| ![](https://github.com/neurokafe/isas2018/blob/master/img/logo.png?raw=true) |
