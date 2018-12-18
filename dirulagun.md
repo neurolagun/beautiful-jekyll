@@ -5,18 +5,22 @@ title: Dirulaguntzak  Donaciones
 
 <div align="center">
 
+<p>
 Tu donación se usará para:
        1) invitar a científicos y clínicos de reconocida trayectoria científica y/o clínica para que
         compartan su conocimiento, se fomenten ideas de investigación y se establezcan nuevas redes
         de colaboración entre los científicos del País Vasco y otros países, 2) organizar jornadas de
          neurociencia para la difusión del conocimiento a la población en general con el objetivo de
          dar respuesta a las inquietudes de las personas.
+</p>
 
+<p>
 Zure diru-laguntza hurrengorako erabilia
        izango da: 1) ibilbide ezin hobea duten ikertzaile eta klinikoak gonbidatzeko beraien jakinduria
         elkar banatzeko, ikerketa idea berriak sustatzeko eta Euskal Herriko eta atzerriko ikertzaileen
          arteko kolaborazio sare berriak sortzeko, 2) Neurozientzia mintegiak antolatzeko neurozientzia
           ezagutza biztanleri orokorrari hedatzeko eta izan ditzaketen zalantza argitzeko.
+</p>
 
 </div>
 
