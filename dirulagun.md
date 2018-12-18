@@ -30,7 +30,8 @@ Zure diru-laguntza hurrengorako erabilia
 </form>
 </div>
 
-# Cuenta para donaciones    Dirulaguntzak emateko kontua
+# Cuenta para donaciones    
+# Dirulaguntzak emateko kontua
 
 CIF/VAT NUMBER: **G95899506**  
 IBAN: **ES93 0073 0100 5905 0535 7579**  
