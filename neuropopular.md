@@ -3,15 +3,17 @@ layout: page
 title: NeuroPopular
 ---
  
+ 
+ <div align="center">
+<h1>Neuropopular Plentzia (laister - próximas fechas)</h1>
+</div>
+
+
 <div align="center">
-<h1>Neuropopular Gernika (laister - próximas fechas)</h1>
+<h1>Neuropopular Gernika</h1>
 </div>
 <div align="center">
 <img src="/img/busturialdeazainduz.png" height="560" width="450">
-</div>
-
-<div align="center">
-<h1>Neuropopular Plentzia (laister - próximas fechas)</h1>
 </div>
 
 
