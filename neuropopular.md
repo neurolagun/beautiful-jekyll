@@ -14,6 +14,8 @@ title: NeuroPopular
 </div>
 <div align="center">
 <a href="https://www.deia.eus/2019/03/26/bizkaia/costa/gernika-acoge-una-charla-sobre-el-envejecimiento"> Noticia Deia  </a>
+</div>
+<div align="center">
 <img src="/img/busturialdeazainduz.png" height="560" width="450">
 </div>
 
