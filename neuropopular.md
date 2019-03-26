@@ -13,7 +13,7 @@ title: NeuroPopular
 <h1> Neuropopular Gernika 2019-03-26 </h1>
 </div>
 <div align="center">
-<a href="https://www.deia.eus/2019/03/26/bizkaia/costa/gernika-acoge-una-charla-sobre-el-envejecimiento"> Noticia Deia  </a>
+<a href="https://www.deia.eus/2019/03/26/bizkaia/costa/gernika-acoge-una-charla-sobre-el-envejecimiento"> <font size="+2"> Noticia Deia </font>  </a>
 </div>
 <div align="center">
 <img src="/img/busturialdeazainduz.png" height="560" width="450">
