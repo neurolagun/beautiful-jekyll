@@ -21,6 +21,25 @@ title: NeuroPopular
 
 
 <div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hs6B1Upjn9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eJgTXbmhWQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pidrTcOByHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0cWR-QLDRik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+<div align="center">
 <h1>Neuropopular Bermeo 2018-12-18</h1>
 </div>
 <div align="center">
