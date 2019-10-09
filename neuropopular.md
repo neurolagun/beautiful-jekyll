@@ -4,6 +4,15 @@ title: NeuroPopular
 ---
  
  
+ 
+<div align="center">
+<h1>Juan Manuel Encinas habla sobre el congreso internacional de Epilepsia y Síndrome de Dravet y Neurolagun</h1>
+</div>
+<div align="center">
+<a href="https://play.cadenaser.com/audio/006RD010000000383286">Entrevista en la Cadena Ser</a>
+</div>
+
+
  <div align="center">
 <h1>Neuropopular Plentzia 2019-05-16</h1>
 </div>
