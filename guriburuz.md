@@ -59,7 +59,7 @@ title: Neurolagun team
         </div>
 
 
-
+<!-- 
         <div class="col-md-4">
           <img class="rounded-circle img-fluid d-block mx-auto" src="/img/juancarlos.png" alt="">
           <h3>Juan Carlos Arango
@@ -69,6 +69,7 @@ title: Neurolagun team
 </p>
           <p>Ikerbasque ikerketa irakaslea Biocruces Osasun Ikerketa Institutoan. Interes gaiak: Neuropsikologia, garun kaltea eta errehabilitazioa</p>
         </div>
+––>
 
         </div>
         <div class="row">
