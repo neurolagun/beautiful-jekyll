@@ -101,16 +101,7 @@ title: Neurolagun team
         </div>
         <div class="row">
 
-        <div class="col-md-4">
-          <img class="rounded-circle img-fluid d-block mx-auto" src="/img/asier.png" alt="">
-          <h3>Asier Erramuzpe
-            <small>PhD</small>
-          </h3>
-          <p>Ingeniero informático y doctor en ingeniería biomédica en el Instituto de Investigación Sanitaria Biocruces. Áreas de interés: epilepsia, reproducibilidad, ciencia abierta, software libre. </p>
-          <p>Ingeniari Informatikoa eta Ingeniaritza Biomedikoan Doktorea Biocruces Osasun Ikerketa Institutoan. Interes gaiak: Epilepsia, Erreproduzibilitatea, Zientzia-irekia, Software Librea.</p>
-        </div>
 
-        </div>
 
 
     </div>
